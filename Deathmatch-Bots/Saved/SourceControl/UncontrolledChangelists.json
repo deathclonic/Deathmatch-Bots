@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"S:/GIT/Deathmatch-Bots/Deathmatch-Bots/Content/GAME/BP/BP_Bot.uasset"
+			]
+		}
+	]
+}
